@@ -1,0 +1,19 @@
+.error-page-cont {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  gap: 30px;
+  align-items: center;
+  height: calc(100vh - 60px);
+  /* background-color: aqua; */
+}
+.error-page-cont img {
+  max-height: 200px;
+}
+
+.error-page-cont span {
+  color: #da3925;
+  font-weight: bold;
+  font-size: 24px;
+}

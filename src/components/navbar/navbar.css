@@ -1,0 +1,21 @@
+.userNavbarcontwc {
+  background: linear-gradient(to right, #da3925, #ffff00);
+  height: 60px;
+}
+.userNavbarcont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.nav-logo {
+  height: 40px;
+  border-radius: 50px;
+}
+
+.userNavbarcont span {
+  color: #da3925;
+  font-weight: bold;
+  cursor: pointer;
+}
